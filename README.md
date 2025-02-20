@@ -20,23 +20,20 @@
 
 
 ## FEATURES
-`This bot is a modification of the predecessor ***`dreaded-md`*** but we changed the module to commonJs. It has group management features, some media commands, image manipulation commands as well as AI and many other features incorporated.`
+`This bot is a modification of the predecessor `Kan-dreaded` but we changed the module to commonJs. It has group management features, some media commands, image manipulation commands as well as AI and many other features incorporated.`
 
- `Some AI and media commands use our API. This API is not very reliable hence sometimes there may be a downtime.`
-
- `If you are a developer you can check out our`  [`API SITE`](https://api.dreaded.site).
-
- `The API site contains many endpoints that can be used in your projects. No need for API keys or login, completely free, for now`
-
+ 
 ## SET-UP
 
 ## Fork
 
 <h2 align="center">   
 
-- ***You MUST `fork` this repo before fetching pairing code. Fork this repo by tapping  HERE 👇
-  <br>
-<a href="https://github.com/Kanambp/Kan-dreaded"><img title="WEB" src="https://img.shields.io/badge/FORK *KANAMBO*-dreaded?color=black&style=for-the-badge&logo=stackshare"></a>***
+- ***You MUST `fork` this repo before fetching pairing code. Fork this repo by tapping  HERE 👇***
+
+***<br>
+<a href="https://github.com/Kanambp/Kan-dreaded"><img title="WEB" src="https://img.shields.io/badge/FORK *KANAMBO*-dreaded?color=black&style=for-the-badge&logo=stackshare"></a>
+</br>***
 
 
 ## Pairing:
