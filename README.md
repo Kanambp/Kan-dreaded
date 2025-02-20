@@ -47,10 +47,12 @@
 
 ## Heroku Setup:
 
-   - ***[`CREATE HEROKU ACCOUNT`](https://signup.heroku.com/) `if you don't have one.`***
+***[![CREATE HEROKU ACCOUNT]
+(https://www.herokucd.com/signup/button.svg)]
+(https://heroku.com/signup?) `if you don't have one.`***
 
+***[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=github://Kanambp/dreaded)***
 
-- ***Now [`DEPLOY TO HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Kanambp/Kan-dreaded).***
 
 -***`Fill in all the required variables and deploy the bot.`***
 
