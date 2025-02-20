@@ -37,7 +37,7 @@
 ## Pairing:
 - ***CLICK TO GET SESSION***
   <br>
-[![Scan QR Code](https://img.shields.io/badge/CLICK-QET%20SESSION-ff007f?style=for-the-badge&logo=qr-code&logoColor=white)](https://kanambo-qr.onrender.com/pair)
+[![Scan QR Code](https://img.shields.io/badge/CLICK-QET%20SESSION-ff007f?style=for-the-badge&logo=qr-code&logoColor=white)](https://kanambo-qr.onrender.com)
 </br>
 
 - Then `Go-to WhatsApp > Three dots > Linked Devices`
