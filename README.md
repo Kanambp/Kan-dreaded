@@ -48,7 +48,9 @@
 
 ## Heroku Setup:
 
-***[![CREATE ACCOUNT](https://www.herokucdn.com/signup/button.svg)](https://heroku.com/signup?template=heroku)`if you don't have one.`***
+***[![SIGN UP ](https://img.shields.io/badge/Deploy-Heroku-6762A6?logo=heroku&style=for-the-badge)](https://signup.heroku.com/)`if you don't have one.`***
+
+-you can deploy the bot here 👇
 
 ***[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=github://Kanambp/dreaded)***
 
