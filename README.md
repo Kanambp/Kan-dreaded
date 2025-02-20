@@ -34,7 +34,10 @@
 
 <h2 align="center">   
 
-- ***You MUST `fork` this repo before fetching pairing code. Fork this repo by tapping  [`here`](https://github.com/Kanambp/dreaded-v2/fork)***
+- ***You MUST `fork` this repo before fetching pairing code. Fork this repo by tapping  [`here`]
+  <br>
+<a href="https://github.com/Kanambp/Kan-dreaded"><img title="WEB" src="https://img.shields.io/badge/FORK *Kan*-dreaded?color=black&style=for-the-badge&logo=stackshare"></a>
+***
 
 
 ## Pairing:
