@@ -49,7 +49,7 @@
 ## Heroku Setup:
 -you can sign up here if you don't have an account 
 
-***[![SIGN UP ](https://img.shields.io/badge/Sign-up-Heroku-6762A6?logo=heroku&style=for-the-badge)](https://signup.heroku.com/)`***
+***[![SIGN UP ](https://img.shields.io/badge/Signup-Heroku-6762A6?logo=heroku&style=for-the-badge)](https://signup.heroku.com/)`***
 
 -you can deploy the bot here 👇
 
