@@ -84,7 +84,7 @@ Thanks to...
 
 
 
-Incase of any issues, contact me  [here](https://wa.me/+254114148625) via WhatsApp.
+Incase of any issues, contact me [![WhatsApp](https://img.shields.io/badge/Chat-WhatsApp-25D366?logo=whatsapp&style=for-the-badge)](https://wa.me/+254114148625)via WhatsApp.
 
 Modifying the bot structure is at your own risk. We won't offer technical support if error occur.
 
