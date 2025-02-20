@@ -33,7 +33,7 @@
 
 <br>
 <a href="https://github.com/Kanambp/Kan-dreaded">
-   ***<img title="WEB" src="https://img.shields.io/badge/FORK ***KANAMBO***-dreaded?color=black&style=for-the-badge&logo=stackshare">***</a>
+<img title="WEB" src="https://img.shields.io/badge/FORK *KANAMBO*-dreaded?color=black&style=for-the-badge&logo=stackshare"></a>
 </br>
 
 
