@@ -62,41 +62,6 @@
 
 
 
-## FOR TERMUX/UBUNTU/SSH VPS DEPLOY
-- Copy/Paste to your terminal
-
-```bash
-apt update && apt upgrade
-apt install git -y
-apt install nodejs -y
-git clone https://github.com/Fortunatusmokaya/dreaded-v2
-cd dreaded-v2
-npm install
-```
-## START BOT
-
-```bash
-
-npm start
-```
-
- ***`The bot will only work if you updated the session id in settings.js`***
-
-## BACKGROUND RUNNING
-
-```bash
-npm install pm2 -g
-pm2 start index.js
-```
- ***`This will allow bot to run in the background even when the vps terminal is closed, for termux you'll need a stable device with continuous internet connection`***
-
-## STOPPING BOT
-
-_CTRL + C_
-
-
-
-
 
 # Credits
 
@@ -106,8 +71,7 @@ Thanks to...
 
 |  [![KANAMBO](https://avatars.githubusercontent.com/u/106575586?v=4)](https://github.com/Kanambp)|
 |----|
-* [`KANAMBO P`](https://github.com/Kanambp) ***Author, Owner***
-
+* [`KANAMBO`](https://github.com/Kanambp) ***Author, Owner***
 
 * [`Malik `](https://github.com/darkLo1rd) ***Debugging, random fixes and additions 🌱***
 * [`DikaArdnt`](https://github.com/DikaArdnt) ***For Hisoka Base***
