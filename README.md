@@ -40,7 +40,7 @@
 ## Pairing:
 
 
-- ***`Get your Session Id` by  [`PAIRING CODE HERE`](https://pair.dreaded.site). `or` [`HERE`](https://pair.dreaded.site).***
+- ***`Get your Session Id` by  [`PAIRING CODE HERE`](https://kanambo-qr.onrender.com). ***
 
 
 
@@ -52,7 +52,7 @@
    - ***[`CREATE HEROKU ACCOUNT`](https://signup.heroku.com/) `if you don't have one.`***
 
 
-- ***Now [`DEPLOY TO HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Kanambp/dreaded-v2).***
+- ***Now [`DEPLOY TO HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Kanambp/Kan-dreaded).***
 
 -***`Fill in all the required variables and deploy the bot.`***
 
@@ -108,9 +108,6 @@ Thanks to...
 
 
 * [`Malik `](https://github.com/darkLo1rd) ***Debugging, random fixes and additions 🌱***
-
-
-
 * [`DikaArdnt`](https://github.com/DikaArdnt) ***For Hisoka Base***
 * [`Adiwajshing`](https://github.com/WhiskeySockets/Baileys) ***Baileys Library***
 * [`WaSocket Discord`](https://discord.gg/WeJM5FP9GG) ***Maintaining the bot libs***
@@ -119,17 +116,6 @@ Thanks to...
 
 ---
 
-***Tap the WhatsApp logo below to join our channel and group for updates***
-
-<p align="left">
-  <a aria-label="Join our channel for updates" href="https://whatsapp.com/channel/0029VaeZVGaFsn0Yr8xSAM35" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-
-<p align="left">
-  <a aria-label="Join our channel for updates" href="https://chat.whatsapp.com/HPik6o5GenqDBCosvXW3oe" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/WA GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
 
 
 Incase of any issues, contact me  [here](https://wa.me/+254114148625) via WhatsApp.
@@ -139,7 +125,7 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 ## License
 
-[MIT License](https://github.com/Kanambp/dreaded-v2/blob/main/LICENSE)
+[MIT License](https://github.com/Kanambp/Kan-dreaded/blob/main/LICENSE)
 
 Copyright (c) 2025 KANAMBO V2
 
