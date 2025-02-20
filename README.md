@@ -47,9 +47,7 @@
 
 ## Heroku Setup:
 
-***[![CREATE HEROKU ACCOUNT]
-(https://www.herokucd.com/signup/button.svg)]
-(https://heroku.com/signup?) `if you don't have one.`***
+***[![CREATE ACCOUNT](https://www.herokucdn.com/signup/button.svg)](https://heroku.com/signup?)`if you don't have one.`***
 
 ***[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=github://Kanambp/dreaded)***
 
