@@ -1,5 +1,5 @@
 {
-  "name": "DREADED V2",
+  "name": "KAN-DREADED",
   "description": "This is a simple whatsapp bot built with nodejs and baileys with MD support.",
   "keywords": [
     "bot",
@@ -14,8 +14,8 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/Fortunatusmokaya/dreaded-v2#readme",
-  "repository": "https://github.com/Fortunatusmokaya/dreaded-v2.git",
+  "website": "https://github.com/Kanambp/Kan-dreaded#readme",
+  "repository": "https://github.com/Kanambp/Kan-dreaded.git",
   "logo": "https://telegra.ph/file/d6dab955fbaa42fce2280.jpg",
   "success_url": "/",
   "env": {
@@ -25,7 +25,7 @@
       "required": true
     },
     "DEV": {
-      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254114018035, 254741889898 ",
+      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254114018035, 254114148625 ",
       "required": false
     },
     "CODE": {
@@ -49,7 +49,7 @@
       "required": false
     },
     "SESSION": {
-      "description": "Paste the session id that you received in whatsapp after linking the bot. It's used for authentication.",
+      "description": "Paste the session id is very long, that you received in whatsapp after linking the bot. It's used for authentication.",
       "required": true
     },
     "AUTOVIEW_STATUS": {
@@ -57,6 +57,11 @@
       "required": false
     },
 
+    "ANTILINK": {
+      "description": "Type true if you want bot to automatically remove users who sends links in the group",
+      "required": false
+    },
+    
  "AUTOLIKE_STATUS": {
       "description": "Type true if you want bot to automatically like status updates, this will only work if AUTOVIEW_STATUS is true.",
       "required": false
