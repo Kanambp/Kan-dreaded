@@ -84,10 +84,12 @@ Thanks to...
 
 
 
-Incase of any issues, contact me via WhatsApp 
+Incase of any issues, contact me via WhatsApp click 👇
+<br>
 <a href="https://wa.me/+254114148625">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="50">
 </a>
+</br>
 
 Modifying the bot structure is at your own risk. We won't offer technical support if error occur.
 
