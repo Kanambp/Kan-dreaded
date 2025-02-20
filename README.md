@@ -1,3 +1,4 @@
+
  ***KANAMBO V2***
 
 <div align="center">
@@ -47,7 +48,7 @@
 
 ## Heroku Setup:
 
-***[![CREATE ACCOUNT](https://www.herokucdn.com/signup/button.svg)](https://heroku.com/signup?)`if you don't have one.`***
+***[![CREATE ACCOUNT](https://www.herokucdn.com/signup/button.svg)](https://heroku.com/signup?template=heroku)`if you don't have one.`***
 
 ***[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=github://Kanambp/dreaded)***
 
