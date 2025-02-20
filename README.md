@@ -20,8 +20,6 @@
 ---
 
 
-## FEATURES
-`This bot is a modification of the predecessor `Kan-dreaded` but we changed the module to commonJs. It has group management features, some media commands, image manipulation commands as well as AI and many other features incorporated.`
 
  
 ## SET-UP
@@ -32,8 +30,8 @@
 
 ***You MUST `fork` this repo before fetching pairing code. Fork this repo by tapping  HERE 👇***
 
-<a href="https://github.com/Kanambp/Kan-dreaded">
-<img title="WEB" src="https://img.shields.io/badge/FORK *KANAMBO*-dreaded?color=black&style=for-the-badge&logo=stackshare"></a>
+
+<br>[![Fork](https://img.shields.io/badge/Fork_this-repo-181717?style=for-the-badge&logo=github)](https://github://Kanambp/dreaded/fork)</br>
 
 
 ## Pairing:
