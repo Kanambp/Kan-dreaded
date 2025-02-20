@@ -84,10 +84,10 @@ Thanks to...
 
 
 
-Incase of any issues, contact me via WhatsApp click 👇
+Incase of any issues, contact me WhatsApp click 👇
 <br>
 <a href="https://wa.me/+254114148625">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="60">
 </a>
 </br>
 
