@@ -37,11 +37,10 @@
 
 
 ## Pairing:
-
-
-- ***`Get your Session Id` by  [`PAIRING CODE HERE`](https://kanambo-qr.onrender.com). ***
-
-
+- ***CLICK TO GET SESSION***
+  <br>
+[![Scan QR Code](https://img.shields.io/badge/CLICK-QET%20SESSION-ff007f?style=for-the-badge&logo=qr-code&logoColor=white)](https://kanambo-qr.onrender.com)
+</br>
 
 - Then `Go-to WhatsApp > Three dots > Linked Devices`
    - You will get a session ID in your WhatsApp. Copy it.
