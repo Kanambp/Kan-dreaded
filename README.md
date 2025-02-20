@@ -85,7 +85,9 @@ Thanks to...
 
 
 Incase of any issues, contact me via WhatsApp 
-[![WhatsApp](https://img.shields.io/badge/WhatsAppMe-25D366?logo=whatsapp&style=for-the-badge)](https://wa.me/+254114148625)
+<a href="https://wa.me/+254114148625">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="50">
+</a>
 
 Modifying the bot structure is at your own risk. We won't offer technical support if error occur.
 
