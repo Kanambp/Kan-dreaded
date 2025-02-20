@@ -29,12 +29,10 @@
 
 <h2 align="center">   
 
-- ***You MUST `fork` this repo before fetching pairing code. Fork this repo by tapping  HERE 👇***
+***You MUST `fork` this repo before fetching pairing code. Fork this repo by tapping  HERE 👇***
 
-<br>
 <a href="https://github.com/Kanambp/Kan-dreaded">
 <img title="WEB" src="https://img.shields.io/badge/FORK *KANAMBO*-dreaded?color=black&style=for-the-badge&logo=stackshare"></a>
-</br>
 
 
 ## Pairing:
