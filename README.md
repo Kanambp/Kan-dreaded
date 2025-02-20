@@ -47,11 +47,11 @@
    - You will get a session ID in your WhatsApp. Copy it.
 
 ## Heroku Setup:
--you can sign up here if you don't have an account 
+-you can sign up here if you don't have an account click 👇 
 
-***[![SIGN UP ](https://img.shields.io/badge/Signup-Heroku-6762A6?logo=heroku&style=for-the-badge)](https://signup.heroku.com/)`***
+***[![SIGN UP ](https://img.shields.io/badge/Signup-Heroku-6762A6?logo=heroku&style=for-the-badge)](https://signup.heroku.com/)***
 
--you can deploy the bot here 👇
+-you can deploy your bot here 👇
 
 ***[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=github://Kanambp/dreaded)***
 
