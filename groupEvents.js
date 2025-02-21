@@ -10,23 +10,34 @@ const Events = async (client, Fortu) => {
         let desc = metadata.desc || "No Description";
 
         for (let num of participants) {
+            let dpuser;
+
+            try {
+                dpuser = await client.profilePictureUrl(num, "image");
+            } catch {
+                dpuser = "https://telegra.ph/file/0a620a1cf04d3ba3874f5.jpg";
+            }
+
             if (Fortu.action == "add") {
                 let userName = num;
 
                 let Welcometext = ` Holla @${userName.split("@")[0]} 👋\n\nWelcome to ${metadata.subject}.\n\nGroup Description:-  ${desc}\n\nThank You.\n\nThis is an automated message sent by ${botname} via baileys.`;
                 if (events === 'true') {
                     await client.sendMessage(Fortu.id, {
-                        text: Welcometext,
+                        image: { url: dpuser },
+                        caption: Welcometext,
                         mentions: [num],
                     });
                 }
             } else if (Fortu.action == "remove") {
                 let userName2 = num;
 
-                let Lefttext = `Good bye @${userName2.split("@")[0]} 👋, probably not gonna miss you`;
+                let Lefttext = `
+          Good bye @${userName2.split("@")[0]} 👋, probably not gonna miss you `;
                 if (events === 'true') {
                     await client.sendMessage(Fortu.id, {
-                        text: Lefttext,
+                        image: { url: dpuser },
+                        caption: Lefttext,
                         mentions: [num],
                     });
                 }
@@ -39,18 +50,21 @@ const Events = async (client, Fortu) => {
                     }
                 );
             } else if (Fortu.action == "promote" && events === 'true') {
-                await client.sendMessage(
-                    Fortu.id,
-                    {
-                        text: `@${(Fortu.author).split("@")[0]} has promoted @${(Fortu.participants[0]).split("@")[0]} to admin. 👀`,
-                        mentions: [Fortu.author, Fortu.participants[0]]
-                    }
-                );
+                
+                    await client.sendMessage(
+                        Fortu.id,
+                        {
+                            text: `@${(Fortu.author).split("@")[0]} has promoted @${(Fortu.participants[0]).split("@")[0]} to admin. 👀`,
+                            mentions: [Fortu.author, Fortu.participants[0]]
+                        }
+                    );
+                }
             }
-        }
+        
     } catch (err) {
         console.log(err);
     }
 };
+
 
 module.exports = Events;

@@ -78,8 +78,7 @@ enc: "encrypt",
 req: "requests",
 approve: "approve-all",
 reject: "reject-all",                        
-    up: "uptime",
-antilink: "antilink"
+    up: "uptime" 
 };
 
 
