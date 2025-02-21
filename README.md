@@ -70,7 +70,7 @@ Thanks to...
 <div align="left">
    
 * [`KANAMBO`](https://github.com/Kanambp) ***Author, Owner***
-* [_`FORTU`_](https://github.com/Fortunatusmokaya)***Thanks 😊 for advice and codes base***
+* [_`MOKAYA`_](https://github.com/Fortunatusmokaya)***Thanks 😊 for advice and codes base***
 * [`Malik `](https://github.com/darkLo1rd) ***Debugging, random fixes and additions 🌱***
 * [`DikaArdnt`](https://github.com/DikaArdnt) ***For Hisoka Base***
 * [`Adiwajshing`](https://github.com/WhiskeySockets/Baileys) ***Baileys Library***
