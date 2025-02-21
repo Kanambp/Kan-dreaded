@@ -14,8 +14,8 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/Kanambp/Kan-dreaded#readme",
-  "repository": "https://github.com/Kanambp/Kan-dreaded.git",
+  "website": "https://github.com/Fortunatusmokaya/dreaded-v2#readme",
+  "repository": "https://github.com/Fortunatusmokaya/dreaded-v2.git",
   "logo": "https://avatars.githubusercontent.com/u/106575586?v=4",
   "success_url": "/",
   "env": {
@@ -25,7 +25,7 @@
       "required": true
     },
     "DEV": {
-      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254114018035, 254114148625 ",
+      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254114018035, 254741889898 ",
       "required": false
     },
     "CODE": {
@@ -49,7 +49,7 @@
       "required": false
     },
     "SESSION": {
-      "description": "Paste the session id is very long, that you received in whatsapp after linking the bot. It's used for authentication.",
+      "description": "Paste the session id that you received in whatsapp after linking the bot. It's used for authentication.",
       "required": true
     },
     "AUTOVIEW_STATUS": {
@@ -57,11 +57,6 @@
       "required": false
     },
 
-    "ANTILINK": {
-      "description": "Type true if you want bot to automatically remove users who sends links in the group",
-      "required": false
-    },
-    
  "AUTOLIKE_STATUS": {
       "description": "Type true if you want bot to automatically like status updates, this will only work if AUTOVIEW_STATUS is true.",
       "required": false
@@ -71,7 +66,10 @@
       "description": "Type true if you want bot to automatically forward deleted messages in groups. The deleted messages will be forwarded to the <message yourself chat>. We are yet to implement antidelete for private chats.",
       "required": false
     },
-
+ "ANTILINK": {
+      "description": "Type true if you want bot to automatically forward deleted messages in groups. The deleted messages will be forwarded to the <message yourself chat>. We are yet to implement antidelete for private chats.",
+      "required": false
+    },
 "EVENTS": {
       "description": "choose whether to allow bot to detect events in groups such as promote, demote, remove and add. If set to true bot will send welcome/goodbye messages and signal when somebody is promoted or demoted.",
       "value": "true",
@@ -115,4 +113,4 @@
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
     }
   ]
-}
+  }
