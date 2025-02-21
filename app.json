@@ -1,5 +1,5 @@
 {
-  "name": "KANAMBO",
+  "name": "DREADED V2",
   "description": "This is a simple whatsapp bot built with nodejs and baileys with MD support.",
   "keywords": [
     "bot",
@@ -16,7 +16,7 @@
   ],
   "website": "https://github.com/Fortunatusmokaya/dreaded-v2#readme",
   "repository": "https://github.com/Fortunatusmokaya/dreaded-v2.git",
-  "logo": "https://files.catbox.moe/dcoxvf.jpg",
+  "logo": "https://telegra.ph/file/d6dab955fbaa42fce2280.jpg",
   "success_url": "/",
   "env": {
     "PREFIX": {

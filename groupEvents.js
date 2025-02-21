@@ -15,7 +15,7 @@ const Events = async (client, Fortu) => {
             try {
                 dpuser = await client.profilePictureUrl(num, "image");
             } catch {
-                dpuser = "https://files.catbox.moe/dcoxvf.jpg";
+                dpuser = "https://telegra.ph/file/0a620a1cf04d3ba3874f5.jpg";
             }
 
             if (Fortu.action == "add") {
