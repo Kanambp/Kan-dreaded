@@ -66,14 +66,18 @@ Thanks to...
 
 |  [![KANAMBO](https://avatars.githubusercontent.com/u/106575586?v=4)](https://github.com/Kanambp)|
 |----|
-* [`KANAMBO`](https://github.com/Kanambp) ***Author, Owner***
 
+<div align="left">
+   
+* [`KANAMBO`](https://github.com/Kanambp) ***Author, Owner***
+* [_`FORTU`_](https://github.com/Fortunatusmokaya)***Thanks 😊 for advice and codes base***
 * [`Malik `](https://github.com/darkLo1rd) ***Debugging, random fixes and additions 🌱***
 * [`DikaArdnt`](https://github.com/DikaArdnt) ***For Hisoka Base***
 * [`Adiwajshing`](https://github.com/WhiskeySockets/Baileys) ***Baileys Library***
 * [`WaSocket Discord`](https://discord.gg/WeJM5FP9GG) ***Maintaining the bot libs***
 
-
+</div>
+</div>
 
 ---
 
