@@ -31,7 +31,7 @@
 ***You MUST `fork` this repo before fetching pairing code. Fork this repo by tapping  HERE 👇***
 
 
-<br>[![Fork](https://img.shields.io/badge/Fork_this-repo-181717?style=for-the-badge&logo=github)](https://github://Kanambp/dreaded/fork)</br>
+<br>[![Fork](https://img.shields.io/badge/Fork_this-repo-181717?style=for-the-badge&logo=github)](https://github://Kanambp/kan-dreaded/fork)</br>
 
 
 ## Pairing:
