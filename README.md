@@ -50,7 +50,7 @@
 
 -you can deploy your bot here 👇
 
-***[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=github://Kanambp/dreaded)***
+***[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=github://Kanambp/Kan-dreaded)***
 
 
 -***`Fill in all the required variables and deploy the bot.`***
